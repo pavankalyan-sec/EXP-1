@@ -62,19 +62,17 @@ Calculation:
 
 a.   KVL:
 
+![alt text](<WhatsApp Image 2026-03-15 at 10.36.13 AM (1).jpeg>)
 
 
-
-
- <img width="700" height="332" alt="image" src="https://github.com/user-attachments/assets/17e9549d-4e29-4043-9ed4-6d57f7f36fe9" />
 
 
 
 b.  KCL:
 
+![alt text](<WhatsApp Image 2026-03-15 at 10.36.13 AM.jpeg>)
 
 
-<img width="665" height="816" alt="image" src="https://github.com/user-attachments/assets/c291157d-5b07-4c98-b1ab-967ba57fbce1" />
 
 
 
@@ -83,19 +81,17 @@ Tabulation:
 a.   KVL:
 
 
+![alt text](<WhatsApp Image 2026-03-15 at 10.36.12 AM (1).jpeg>)
 
-
- <img width="451" height="233" alt="image" src="https://github.com/user-attachments/assets/6f18a641-4556-4ce1-87f9-9cae6989e0ed" />
 
 
 
 b.  KCL:
 
 
+![alt text](<WhatsApp Image 2026-03-15 at 10.36.12 AM (2).jpeg>)
 
 
-
-<img width="376" height="125" alt="image" src="https://github.com/user-attachments/assets/dbded403-f115-465d-939c-a8ef59f0c8c0" />
 
 
 
